@@ -1,0 +1,1 @@
+# javascript-mvc-proxy-factory
