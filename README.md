@@ -2,6 +2,8 @@
 
 [Curso de JavaScript: aprofundado em MVC, padrão Proxy e Factory da formação JavaScript/Alura](https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-2)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/javascript-padroes)
+
 [Principal](https://github.com/pvreboucas/javascript-mvc-proxy-factory)
 
 * [Aula 1 - Como saber quando o modelo mudou?](https://github.com/pvreboucas/javascript-mvc-proxy-factory/tree/aula-01)
@@ -16,3 +18,4 @@
 
 * [Aula 6 - Considerações finais e exercícios bônus](https://github.com/pvreboucas/javascript-mvc-proxy-factory/tree/aula-06)
 
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/javascript-indexeddb)
